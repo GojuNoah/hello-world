@@ -1,12 +1,14 @@
 # hello-world
 First repository
-	```
+
+```
 {
   "firstName": "Noah",
   "lastName": "Stone",
   "age": 21
 }
 ```
+
 Hello all, my name is Noah and I'm currenntly pursuing a bachelor's in computer science. I have several goals I want to achieve.
 
 - [ ] Obtain Bachelors degree
