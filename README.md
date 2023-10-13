@@ -5,7 +5,7 @@ First repository
 {
   "firstName": "Noah",
   "lastName": "Stone",
-  "age": 21
+  "age": 22
 }
 ```
 
@@ -13,6 +13,6 @@ Hello all, my name is Noah and I'm currenntly pursuing a bachelor's in computer 
 
 - [ ] Obtain Bachelors degree
 - [ ] Create projects to put onto a portfolio
-- [ ] Become a Software Engineer / Game Developer / Front-end Developer
+- [ ] Become a Software Engineer
 - [x] Always have a positive attitude
-- [x] Always improve my skills
+- [x] Always improving my skills
